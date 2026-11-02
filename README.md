@@ -16,9 +16,6 @@
 <a href="mailto:dramadan.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="dramadan.dev@gmail.com" />
 </a>
-<a href="https://TU-PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
-</a>
 </p>
 
 👨‍💻 About Me
