@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Dramadan.Dev&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Senior%20Full%20Stack%20Developer%20%7C%20Clean%20Architecture%20%7C%20Ciberdefensa&descAlignY=62&descSize=18" width="100%" />
 
-<!-- ✏️ Frases de la animación: editá "lines". Codificá acentos así: ñ=%C3%B1 á=%C3%A1 é=%C3%A9 í=%C3%AD ó=%C3%B3 -->
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A371F7&center=true&vCenter=true&random=false&width=700&lines=Senior+Full+Stack+Developer;12+a%C3%B1os+construyendo+software+de+misi%C3%B3n+cr%C3%ADtica;Clean+Architecture+%C2%B7+SOLID+%C2%B7+Secure+by+Design;Cursando+Lic.+en+Ciberdefensa+%28UNDEF%29" alt="Typing SVG" />
 </p>
@@ -31,8 +31,7 @@ Senior Full Stack Developer con más de 12 años de experiencia diseñando y con
 <img height="165" src="https://streak-stats.demolab.com/?user=DrEureka&theme=tokyonight&border_radius=10&locale=es" alt="GitHub Streak" />
 </p>
 
-<!-- Si el mirror deja de responder, el servicio oficial es:
-https://github-profile-trophy.vercel.app/?username=DrEureka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4 -->
+
 <p align="center">
 <img src="https://trophy.ryglcloud.net/?username=DrEureka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
 </p>
@@ -41,12 +40,10 @@ https://github-profile-trophy.vercel.app/?username=DrEureka&theme=tokyonight&no-
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DrEureka&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
 </p>
 
-<p align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=DrEureka&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true&custom_title=Actividad%20de%20contribuciones" alt="Activity Graph" />
-</p>
+
 
 🚀 Proyectos destacados
-<!-- ✏️ Cambiá los nombres por los repos que quieras lucir (los de acá son tus repos más populares) -->
+
 <p align="center">
 <a href="https://github.com/DrEureka/AmdBD---TPS">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DrEureka&repo=AmdBD---TPS&theme=tokyonight&border_radius=10" alt="AmdBD - TPS" />
@@ -99,59 +96,19 @@ https://github-profile-trophy.vercel.app/?username=DrEureka&theme=tokyonight&no-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
 </p>
 
-<!-- Si además trabajás con estas, descomentá el bloque:
+
 <h3 align="center">Security & Ops</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" />
 </p>
--->
+
 
 🎯 Ahora mismo
 🌱 Aprendiendo: Ciberdefensa (UNDEF) — seguridad defensiva, análisis de amenazas y hardening.
 💬 Preguntame sobre: arquitectura web, APIs seguras, Clean Architecture y diseño de sistemas.
 ⚡ Dato random: también soy Lic. en Diseño Audiovisual — pixel perfect en el frontend no es opcional. 😉
-🐍 Contribution Snake
-<!-- ⚙️ Setup (una sola vez):
-1) Creá .github/workflows/snake.yml con el YAML de más abajo.
-2) Push (o corrélo a mano desde la pestaña Actions > Run workflow).
-3) Esperá ~1 minuto: se crea la rama "output" con los SVG.
-4) Descomentá el bloque <picture> de abajo. ¡Listo!
 
---- .github/workflows/snake.yml ---
-name: generate snake
-on:
-schedule:
-- cron: "0 0 * * *"
-workflow_dispatch:
-jobs:
-build:
-runs-on: ubuntu-latest
-steps:
-- uses: Platane/snk/svg-only@v3
-with:
-github_user_name: DrEureka
-outputs: |
-dist/github-contribution-grid-snake.svg
-dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-- uses: crazy-max/ghaction-github-pages@v4
-with:
-target_branch: output
-build_dir: dist
-env:
-GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
-<!-- Descomentá este bloque cuando el workflow haya generado los SVG:
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DrEureka/dreureka/output/github-contribution-grid-snake-dark.svg" />
-<img alt="Snake animation" src="https://raw.githubusercontent.com/DrEureka/dreureka/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-</p>
--->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:000000,100:a371f7&section=footer" width="100%" />
